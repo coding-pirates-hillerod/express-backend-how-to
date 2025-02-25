@@ -207,3 +207,5 @@ http://localhost:3000
 
 Så gør du dette - altså trykker på ovenstående link - så skulle du gerne få dette at se i din browser:
 
+<img width="798" alt="Screenshot 2025-02-25 at 14 56 25" src="https://github.com/user-attachments/assets/2a7805c1-93dc-4243-8fbf-bdabf21635dd" />
+
