@@ -209,3 +209,13 @@ Så gør du dette - altså trykker på ovenstående link - så skulle du gerne f
 
 <img width="798" alt="Screenshot 2025-02-25 at 14 56 25" src="https://github.com/user-attachments/assets/2a7805c1-93dc-4243-8fbf-bdabf21635dd" />
 
+## The End ..
+
+Hvis du er nået her til, så har du nu lavet din egen backend. Wuhuuu! Godt nok er den jo så ikke vildt imponerende endnu .. men nu ved du i hvert fald lidt om, hvordan man sætter en backend op.
+
+## Bidrag til dette repo
+
+Dette repo (og koden dertil) er skabt med bidrag fra:
+
+- [Jonas Bak Phillipson](https://github.com/jbakchr) (_Formand og Kaptajn for Coding Pirates Hillerød_)
+
